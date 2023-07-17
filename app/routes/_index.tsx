@@ -29,7 +29,7 @@ export default function Index(){
           </div>
           <TextInput
             id="input__email"
-            placeholder="name@flowbite.com"
+            placeholder="johndoe@example.com"
             name="email"
             required
             type="email"
