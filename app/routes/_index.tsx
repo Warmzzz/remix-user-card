@@ -6,7 +6,7 @@ import AvatarPlaceholder from "~/images/avatar-placeholder.png";
 
 export const meta: V2_MetaFunction = () => {
   return [
-    { title: "Cool remix app" },
+    { title: "User Card Website" },
     { name: "description", content: "A website made with Remix run" },
     { name: "author", content: "Raffaele Gigantelli" }
   ];
